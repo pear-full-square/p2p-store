@@ -40,4 +40,4 @@ await store.close()
 `resource-opened` (key, how, name, writable, length), `store-closed`.
 Metrics: `resources()`.
 
-`brittle-bare test/*.test.js` (Bare installed): 5 tests.
+`brittle-bare test/*.test.js` (Bare installed): own drives by name and by keypair, the same in any store; a replica by key, read only; resources and events, never a secret; each test by its name in [test/](test/).
