@@ -15,7 +15,6 @@
     "hyperdrive": "13.3.4"
   },
   "devDependencies": {
-    "bare-runtime": "1.36.0",
     "brittle": "4.5.0"
   }
 }
