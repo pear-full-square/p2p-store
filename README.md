@@ -40,4 +40,4 @@ await store.close()
 `resource-opened` (key, how, name, writable, length), `store-closed`.
 Metrics: `resources()`.
 
-`npm test`: 5 tests.
+`brittle-bare test/*.test.js`: 5 tests.
