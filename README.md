@@ -5,9 +5,9 @@ Local storage for the p2p layer: one Corestore and the Hyperdrives in it.
 No peer is needed. One of the p2p series, composed by the application: no
 module of the series knows another.
 
-| | |
-|---|---|
-| [test/](test/) | its tests, what each checks |
+## Links
+
+- [test](test/)
 
 ## Usage
 
